@@ -24,3 +24,10 @@ Thus to run the game, the system must have following installed
 - `s` key to pause the game.
 
 ----
+## Demo
+
+
+
+https://github.com/Deepam-Rai/jumper/assets/78490078/d9801135-bcb5-4aec-b10b-11ec30ec64f5
+
+
