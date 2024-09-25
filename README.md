@@ -1,3 +1,11 @@
+----
+
+<div align="center">
+ <img alt="Static Badge" src="https://img.shields.io/badge/pygame-8A2BE2">
+
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic" alt="Python Badge">
+</div>
+
 # Jumper
 This game was created as an mini-project for MDSC-106 Python Lab by me.
 
